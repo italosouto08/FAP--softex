@@ -1,0 +1,28 @@
+* {
+    margin: 0; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+}
+
+p{
+    font-size: 1.2rem;   
+}
+
+h1{
+    font-size: 1.4rem;
+}
+
+h1{
+    padding: 50px;
+}
+
+h2, h1, p{
+    text-shadow: 2px 4px 5px black, 0 0 1px red;
+}
+
+header,main{
+    background-image: url(./assets/background.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

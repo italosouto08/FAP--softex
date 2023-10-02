@@ -1,0 +1,48 @@
+* {
+margin: 0; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+p{
+    font-size: 1.2rem;   
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h1,p{
+    padding: 50px;
+}
+
+
+h2, h1{
+    text-shadow: 2px 4px 5px rgb(116, 114, 114), 0 0 1px red;
+    color: beige;
+}
+
+
+header,main{
+    background-image: url(./assets/liquid-cheese.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#botao a{
+   text-decoration: none; 
+   background-color: rgb(94, 94, 253);
+   color: white;
+   border: 1px solid blue; 
+   padding:5px 15px;
+   border-radius: 1rem;
+}
+
+#botao{
+    text-shadow: 2px 4px 5px rgb(116, 114, 114), 0 0 1px red;
+}
+
+
+
